@@ -1,0 +1,6 @@
+{
+  "name": "RDO Digital — Diário de Obra DNIT",
+  "description": "Aplicativo web para elaboração, organização, consulta e exportação de Registros Diários de Obra rodoviários em conformidade com a Norma DNIT 097/2025 – PRO.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
